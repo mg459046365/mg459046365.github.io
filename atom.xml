@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-02T04:38:39.000Z</updated>
+  <updated>2016-04-02T05:12:13.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>再来一篇测试</title>
+    <link href="http://yoursite.com/2016/04/02/%E5%86%8D%E6%9D%A5%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2016/04/02/再来一篇测试/</id>
+    <published>2016-04-02T05:07:10.000Z</published>
+    <updated>2016-04-02T05:12:13.000Z</updated>
+    
+    <content type="html">&lt;p&gt;哈哈哈哈哈哈哈哈&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哈哈哈哈哈哈哈哈&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="fsdfsfsf" scheme="http://yoursite.com/categories/fsdfsfsf/"/>
+    
+    
+      <category term="fdfdfdfd" scheme="http://yoursite.com/tags/fdfdfdfd/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试文章</title>
     <link href="http://yoursite.com/2016/04/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2016/04/02/测试文章/</id>
     <published>2016-04-02T04:37:38.000Z</published>
-    <updated>2016-04-02T04:38:39.000Z</updated>
+    <updated>2016-04-02T05:15:38.000Z</updated>
     
     <content type="html">&lt;p&gt;测试一下&lt;/p&gt;
 </content>
@@ -37,6 +61,8 @@
     
       <category term="iOS开发" scheme="http://yoursite.com/tags/iOS%E5%BC%80%E5%8F%91/"/>
     
+      <category term="哈哈哈" scheme="http://yoursite.com/tags/%E5%93%88%E5%93%88%E5%93%88/"/>
+    
   </entry>
   
   <entry>
@@ -44,7 +70,7 @@
     <link href="http://yoursite.com/2016/04/02/%E7%AC%AC%E4%B8%89%E4%B8%AA%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2016/04/02/第三个测试/</id>
     <published>2016-04-02T04:12:12.000Z</published>
-    <updated>2016-04-02T04:14:04.000Z</updated>
+    <updated>2016-04-02T05:12:05.000Z</updated>
     
     <content type="html">&lt;p&gt;还是测试&lt;/p&gt;
 </content>
