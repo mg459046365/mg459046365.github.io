@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-01T17:44:34.000Z</updated>
+  <updated>2016-04-02T03:41:25.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试二</title>
+    <link href="http://yoursite.com/2016/04/02/%E6%B5%8B%E8%AF%95%E4%BA%8C/"/>
+    <id>http://yoursite.com/2016/04/02/测试二/</id>
+    <published>2016-04-02T03:39:37.000Z</published>
+    <updated>2016-04-02T03:41:25.000Z</updated>
+    
+    <content type="html">&lt;p&gt;再来测试一下&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;再来测试一下&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="iOS开发" scheme="http://yoursite.com/tags/iOS%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
   
   <entry>
     <title>测试而已</title>
